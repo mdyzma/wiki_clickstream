@@ -1,0 +1,7 @@
+jupyter>=1.0.0
+jupyterlab>=0.31.4
+numpy>=1.14..0
+pandas>=0.22.0 
+matplotlib>=2.1.2
+seaborn>=0.8.1  
+watermark>=1.6.0
